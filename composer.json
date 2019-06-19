@@ -19,5 +19,11 @@
         "psr-4": {
           "Setor7\\Cielo\\": ""
         }
-    }
+    },
+    "repositories":[
+       {
+        "type":"vcs",
+        "url":"https://github.com/vandromedae/magento2-cielo.git"
+       }
+    ]
 }
