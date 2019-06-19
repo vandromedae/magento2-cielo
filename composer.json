@@ -19,5 +19,7 @@
         "psr-4": {
           "Setor7\\Cielo\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
